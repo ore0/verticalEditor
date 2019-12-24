@@ -1,5 +1,5 @@
 {
-  "name": "vertical-editor",
+  "name": "verticalEditor",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
+    "tiptap": "^1.26.6",
+    "tiptap-extensions": "^1.28.6",
     "vue": "^2.6.10"
   },
   "devDependencies": {
