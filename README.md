@@ -1,4 +1,6 @@
-# vertical-editor
+# verticalEditor
+
+demo: https://ore0.github.io/verticalEditor/
 
 ## Project setup
 ```
